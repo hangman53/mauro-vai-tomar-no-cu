@@ -1,0 +1,99 @@
+
+
+
+
+#container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: xx-large;
+}
+
+.lixeira{
+    width: 2rem;
+    height: 3rem;
+    margin-top: 2rem;
+    margin-left: 6rem;
+    margin-right: 5rem;
+
+}
+
+.editar{
+    margin-top: 2.5rem;
+    width: 2rem;
+    height: 2rem;
+}
+
+#tabelajogos {
+    width: 100%;
+}
+
+#linhajogos {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-bottom: .1rem solid gray;
+}
+
+#titulo {
+    margin: 5rem;
+    text-align: center;
+}
+
+.cabecalho {
+    width: 10%;
+
+
+}
+
+.dados {
+    width: 10%;
+
+
+}
+
+
+#areaBotao{
+    width: 100%;
+    height: 3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#botaoAdicionar{
+    width: 5rem;
+    height: 5rem;
+    margin-top: 2rem;
+    border-radius:50% ;
+    border: none;
+    background-color: aquamarine;
+    font-size: xx-large;
+}
+
+#divBusca{
+    background-color:#d7c8ad;
+    border:solid 1px;
+    border-radius:15px;
+    width:300px;
+  }
+  
+  #txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-style:italic;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width:260px;
+  }
+
+  #btnBusca{
+    height:1.5rem ;
+    width:1.5rem ;
+  }
+  
+  
